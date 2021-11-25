@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Patel</h1>
 <h3 align="center">A high school guy and a programming enthusiast and passionate to learn about new technologies.</h3>
 
-- 🔭 I’m currently working on **Trade Analysis**
-
-- 🌱 I’m currently learning **ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Programming-with-Jay](https://github.com/Programming-with-Jay)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jay patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay patel" height="30" width="40" /></a>
